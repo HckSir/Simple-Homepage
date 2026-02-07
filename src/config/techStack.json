@@ -13,15 +13,15 @@
       "name": "Python"
     },
     {
-      "icon": "devicon:ros",
+      "icon": "simple-icons:ros",
       "name": "ROS"
     },
     {
-      "icon": "skill-icons:yolo",
+      "icon": "simple-icons:yolo",
       "name": "YOLO"
     },
     {
-      "icon": "devicon:eplan",
+      "icon": "mdi:application-cog",
       "name": "EPLAN"
     }
   ]
